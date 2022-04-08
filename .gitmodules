@@ -1,0 +1,12 @@
+[submodule "orientalmotor_ros"]
+	path = orientalmotor_ros
+	url = git@github.com:shuto1441/orientalmotor_ros.git
+[submodule "dmk_high_speed_cam_ros"]
+	path = dmk_high_speed_cam_ros
+	url = git@github.com:shuto1441/dmk_high_speed_cam_ros.git
+[submodule "dobot_ros"]
+	path = dobot_ros
+	url = git@github.com:shuto1441/dobot_ros.git
+[submodule "unipulse_ros"]
+	path = unipulse_ros
+	url = git@github.com:shuto1441/unipulse_ros.git
